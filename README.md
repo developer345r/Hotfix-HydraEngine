@@ -22,6 +22,13 @@
 - ✅ **Google Chrome** for optimal performance
 - ✅ **Mozilla Firefox** for compatibility with extensions
 
+## Additional Compatibility
+- **GitHub Pages:** HydraEngine can also be hosted and run directly on GitHub Pages for easy access and sharing.
+
 ---
 
-**Note:** Make sure to keep your browser updated for the best experience with HydraEngine!
+## Setup Instructions
+1. **Fork the Repository:** Click the "Fork" button in the top right corner of this page to create your own copy of the repository.
+2. **Clone Your Fork:** Open your terminal and run:
+   ```bash
+   git clone https://github.com/YOUR_USERNAME/HydraEngine.git
